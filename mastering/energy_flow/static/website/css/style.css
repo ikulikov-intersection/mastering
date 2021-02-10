@@ -60,13 +60,13 @@ p {
 .section-title h3 {
   font-size: 40px;
   line-height: 50px;
-  color: #222222;
+  color: #6ab96e;
   font-weight: 700;
   font-family: "Source Sans Pro", sans-serif;
 }
 
 .section-title span {
-  color: #222222;
+  color: #6ab96e;
   font-weight: 400;
 }
 
@@ -163,7 +163,7 @@ li {
 .btn-style-two {
   font-size: 14px;
   font-weight: 600;
-  color: #222222;
+  color: #6ab96e;
   line-height: 27px;
   padding: 8px 36px;
   background: #f4f4f4;
@@ -334,7 +334,7 @@ li {
   font-size: 16px;
   line-height: 26px;
   font-weight: 600;
-  color: #222222;
+  color: #6ab96e;
   text-transform: capitalize;
   font-family: "Roboto", sans-serif;
 }
@@ -598,7 +598,7 @@ button:focus {
   justify-content: center;
   align-items: center;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: 80%;
   background-size: cover;
   position: relative;
 }
@@ -650,7 +650,7 @@ button:focus {
 
 .hero-slider .content h2 {
   font-size: 35px;
-  text-transform: capitalize;
+ /* text-transform: capitalize;*/
   font-weight: 600;
   font-family: "Roboto", sans-serif;
   color: #fff;
@@ -918,7 +918,7 @@ button:focus {
   line-height: 30px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #222222;
+  color: #68906a;
   font-family: "Roboto", sans-serif;
 }
 
@@ -1180,7 +1180,7 @@ button:focus {
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
-  color: #222222;
+  color: #afecb9;
   padding-top: 6px;
   padding-bottom: 8px;
   text-transform: uppercase;
@@ -1255,7 +1255,7 @@ button:focus {
 
 .service-two .social-links li .icon-box i:before {
   font-size: 35px;
-  color: #222222;
+  color: #7fc27c;
 }
 
 .service-two .social-links li .border-shep {
@@ -1271,7 +1271,7 @@ button:focus {
 .service-two .social-links li h6 {
   font-size: 16px;
   line-height: 28px;
-  color: #222222;
+  color: #a0ca7d;
   font-weight: 400;
   padding-bottom: 5px;
   letter-spacing: .5px;
@@ -1344,7 +1344,7 @@ button:focus {
   font-size: 20px;
   line-height: 30px;
   font-weight: 600;
-  color: #222222;
+  color: #60b467;
   padding: 10px 0px;
   text-transform: uppercase;
 }
@@ -1353,7 +1353,7 @@ button:focus {
   font-size: 14px;
   line-height: 26px;
   font-weight: 700;
-  color: #222222;
+  color: #6ab96e;
   padding: 11px 32px;
   display: inline-block;
   border-radius: 5px;
@@ -1385,7 +1385,7 @@ button:focus {
   position: relative;
   font-size: 22px;
   font-weight: 700;
-  color: #222222;
+  color: #6ab96e;
   line-height: 30px;
   padding-bottom: 15px;
   margin-bottom: 15px;
@@ -1430,7 +1430,7 @@ button:focus {
 .accordion-box .accordion .accord-btn h6 {
   font-size: 15px;
   font-weight: 400;
-  color: #222222;
+  color: #6ab96e;
   line-height: 26px;
   transition: all 500ms ease;
 }
@@ -1508,7 +1508,7 @@ button:focus {
   font-size: 17px;
   line-height: 28px;
   font-weight: 400;
-  color: #222222;
+  color: #6ab96e;
   display: inline-block;
   padding: 20px 30px;
   width: 100%;
@@ -1552,7 +1552,7 @@ button:focus {
 .service-details .service-testimonials strong {
   font-size: 14px;
   line-height: 26px;
-  color: #222222;
+  color: #6ab96e;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -1657,7 +1657,7 @@ button:focus {
 
 .team-section {
   position: relative;
-  background: #ffffff;
+  background: #4d0303;
   z-index: 1;
 }
 
@@ -1866,7 +1866,7 @@ button:focus {
 .blog-section .content-text h6 {
   font-size: 18px;
   font-weight: 700;
-  color: #222222;
+  color: #6ab96e;
   padding-bottom: 4px;
   letter-spacing: .4px;
   margin-top: -5px;
@@ -2024,7 +2024,7 @@ button:focus {
 
 .blog-section.style-four .content-text h4 {
   font-weight: 700;
-  color: #222222;
+  color: #6ab96e;
   margin-top: -10px;
   margin-bottom: 10px;
 }
@@ -2076,7 +2076,7 @@ button:focus {
   font-size: 20px;
   line-height: 26px;
   font-weight: 600;
-  color: #222222;
+  color: #6ab96e;
   padding-bottom: 10px;
   margin-bottom: 20px;
   text-transform: capitalize;
@@ -2282,7 +2282,7 @@ button:focus {
   font-size: 18px;
   line-height: 26px;
   font-weight: 700;
-  color: #222222;
+  color: #6ab96e;
   padding-bottom: 20px;
   text-transform: capitalize;
 }
@@ -2303,7 +2303,7 @@ button:focus {
   font-size: 14px;
   line-height: 26px;
   font-weight: 700;
-  color: #222222;
+  color: #6ab96e;
   padding-bottom: 20px;
   text-transform: uppercase;
 }
@@ -2363,7 +2363,7 @@ button:focus {
 
 .blog-section.style-five .comment h5 a:hover,
 .blog-section.style-five .comment h5 i:hover {
-  color: #222222;
+  color: #6ab96e;
 }
 
 .blog-section.style-five .comment p {
@@ -2382,7 +2382,7 @@ button:focus {
   font-size: 20px;
   line-height: 30px;
   font-weight: 700;
-  color: #222222;
+  color: #6ab96e;
   padding-bottom: 20px;
   margin-bottom: 40px;
   text-transform: uppercase;
@@ -2532,7 +2532,7 @@ button:focus {
   font-size: 18px;
   font-weight: 600;
   line-height: 26px;
-  color: #222222;
+  color: #6ab96e;
   padding-bottom: 10px;
   margin-bottom: 10px;
   text-transform: uppercase;

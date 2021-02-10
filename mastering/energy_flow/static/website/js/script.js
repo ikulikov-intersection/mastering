@@ -43,6 +43,7 @@
 		slidesToShow: 1,
 		autoplay: true,
 		autoplaySpeed: 3000,
+		variableWidth: false,	
 		infinite: true,
 		speed: 1600,
 		pauseOnHover: false,
